@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic atmospheric interior photograph of an ancient stone bread oven inside a traditional Swiss-German Backstube from the 1800s. The stone oven glows intensely from within with deep orange and amber light, iron door slightly ajar revealing the scorching interior. Several sourdough loaves are visible on the stone deck inside, their crusts darkening perfectly. The bakery walls are raw stone and whitewashed plaster, aged and textured. Wooden-handled long peels lean against the wall. The foreground shows a stone flour-dusted work surface with a proofing basket. The entire scene is lit solely by the warm dramatic oven glow. 24mm wide-angle, f/5.6, ISO 800. Long exposure ambiance, natural oven light only, dramatic shadows. No artificial fill light. Authentic historical craft atmosphere.",
+  "negative_prompt": "modern bakery, industrial oven, artificial lighting, CGI, cartoon, overexposed, clean modern tiles, gas oven, electric oven, studio, fake fire, overprocessed, HDR, too bright, too clean",
+  "api_parameters": {
+    "aspect_ratio": "16:9",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "atmospheric interior documentary, historical realism",
+    "lighting": "practical oven glow only, dramatic warm amber, deep shadows",
+    "camera_angle": "eye-level, slightly low, wide establishing shot",
+    "depth_of_field": "deep focus, f/5.6, oven interior sharp",
+    "quality": "high detail, stone texture, authentic patina"
+  }
+}

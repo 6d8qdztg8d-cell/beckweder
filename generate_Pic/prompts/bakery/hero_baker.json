@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic documentary portrait of a master baker, male, approximately 55 years old, Swiss-German heritage, wearing a traditional white apron dusted with flour, sleeves rolled up revealing strong forearms with flour-covered hands. He is gently scoring a raw sourdough loaf on a wooden peel, with intense focus and craftsmanship visible in his expression. A warm amber glow from an old stone oven in the background. The bakery is rustic — stone walls, antique wooden shelves with proofing baskets, iron hooks. 85mm lens, f/2.0, ISO 200. Natural ambient light from oven glow and small window. Visible pores, natural skin texture, slight flour on eyebrows, salt-and-pepper stubble. No retouching, no beauty filters. Authentic master craftsman energy. Documentary realism, editorial style.",
+  "negative_prompt": "young, plastic skin, airbrushed, overly clean, studio backdrop, posed, stock photo, generic, artificial lighting, cartoon, CGI, overexposed, beauty filter, smooth skin, no wrinkles",
+  "api_parameters": {
+    "aspect_ratio": "3:4",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "documentary portrait, editorial realism",
+    "lighting": "warm oven ambient glow, soft window side light",
+    "camera_angle": "eye-level, slight 3/4 angle",
+    "depth_of_field": "shallow, face and hands sharp, background softly bokeh",
+    "quality": "high detail, authentic skin texture, flour imperfections"
+  }
+}

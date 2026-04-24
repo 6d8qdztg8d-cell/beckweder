@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic close-up macro photograph of a baker's hands actively working sourdough on a floured stone work surface. The hands belong to an experienced baker — strong, slightly calloused, flour embedded in the skin creases, dough clinging between the fingers. The dough itself is creamy white, slightly glossy with surface tension, being stretched in a folding motion. Scattered flour on the dark stone surface. Extreme close-up, tight crop on just hands and dough. 100mm macro lens, f/2.8, ISO 200. Dramatic side lighting from a single window, warm and directional, creating deep texture shadows in the dough folds and skin. No face visible, only the craft of the hands. Documentary realism, tactile and authentic.",
+  "negative_prompt": "gloves, young smooth hands, airbrushed skin, plastic dough, CGI, cartoon, artificial light, studio, overexposed, generic stock, clean hands without flour, oversaturated, low quality, blurry, watermark",
+  "api_parameters": {
+    "aspect_ratio": "4:5",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "macro documentary photography, craft editorial",
+    "lighting": "single directional warm window side light, deep shadows",
+    "camera_angle": "slight overhead 20-degree angle, tight crop",
+    "depth_of_field": "shallow macro, hands and immediate dough sharp",
+    "quality": "ultra high detail, visible skin texture, flour particles, dough gloss"
+  }
+}

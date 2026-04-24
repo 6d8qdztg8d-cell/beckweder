@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic interior architectural photograph of a premium Swiss artisan bakery shop interior, warm and inviting. Dark walnut wood display shelving lines the walls, each shelf holding rustic bread loaves and pastries. A white marble counter with a subtle natural grain runs the length of the shop. Pendant lights with amber Edison bulbs hang from the ceiling, casting warm pools of light. The walls are warm cream plaster with subtle texture. A large antique wall clock. Display cases with croissants and pastries. The floor is herringbone dark oak wood. Morning light streams through the large glass storefront, golden and soft. 28mm wide-angle, f/8, ISO 200. Real estate editorial photography style. The atmosphere evokes quiet luxury, Swiss precision, artisan heritage. No people, no staff, just the beautiful empty shop.",
+  "negative_prompt": "modern minimalist cold, industrial, IKEA, cheap materials, plastic, fluorescent light, dirty, cluttered mess, low ceilings, supermarket, chain bakery, CGI, cartoon, overexposed, fisheye distortion, watermark",
+  "api_parameters": {
+    "aspect_ratio": "16:9",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "architectural interior photography, luxury editorial",
+    "lighting": "mixed warm ambient Edison light and natural morning window light",
+    "camera_angle": "eye-level, slight wide angle, corner perspective",
+    "depth_of_field": "deep, everything sharp, f/8",
+    "quality": "high detail, wood grain texture, marble imperfections visible"
+  }
+}

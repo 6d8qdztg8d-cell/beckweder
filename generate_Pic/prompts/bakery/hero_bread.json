@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic editorial food photography of a rustic artisan sourdough loaf freshly baked, placed on a weathered wooden baker's board dusted with rye flour. The bread has a deep mahogany crust with dramatic crackled scoring patterns revealing a golden-amber interior crumb. Small clouds of flour dust hang in the air. Warm morning light streams in from the left through a farmhouse window, casting long soft shadows across the wooden surface. 90mm macro lens, f/2.8, ISO 160, natural warm daylight. Documentary food realism. The setting evokes a traditional Swiss-German bakery from 1860. Visible flour particles, rough wood grain texture, slight steam rising from the crust. No artificial lighting, no styling tricks, no prop-heavy composition. Raw artisanal honesty.",
+  "negative_prompt": "plastic, CGI, cartoon, oversaturated, studio lighting, artificial, stock photo generic, clean background, white background, modern industrial bakery, no texture, overexposed, blurry, low quality, extra objects, watermark",
+  "api_parameters": {
+    "aspect_ratio": "16:9",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "editorial food photography, documentary realism",
+    "lighting": "natural morning window light, warm golden hour, soft shadows",
+    "camera_angle": "slight overhead 30-degree angle",
+    "depth_of_field": "shallow, sharp on crust details, soft background",
+    "quality": "ultra high detail, visible flour dust, natural imperfections"
+  }
+}

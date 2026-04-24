@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic editorial overhead food photography of an artisan bread assortment displayed on a large rustic wooden table. Visible: a dark rye sourdough loaf with deep scoring, a lighter spelt Vollkornbrot with seeds, a Zopf braided bread with golden glaze, a cluster of Laugenbretzeln with coarse salt, and several assorted Brötchen. Each bread has distinct, authentic texture — porous crumb visible where sliced, floured crusts, natural imperfections. Whole wheat flour dusting on the wood surface, a small sprigs of rosemary and some scattered grain. Warm but controlled natural side light, 35mm lens, f/4.5, ISO 160. High contrast between dark and light breads. Completely authentic, no artificial symmetry, organic arrangement. Swiss-German artisan bakery editorial aesthetic.",
+  "negative_prompt": "perfectly symmetrical, plastic, CGI, cartoon, studio light, artificial, generic stock, overexposed, oversaturated, too clean, too perfect, no texture, synthetic, watermark, modern packaging",
+  "api_parameters": {
+    "aspect_ratio": "16:9",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "editorial food photography, artisan overhead",
+    "lighting": "natural warm side window light, gentle shadows",
+    "camera_angle": "high overhead 45-degree angle",
+    "depth_of_field": "medium, most breads sharp, edges soft",
+    "quality": "ultra high detail, visible crumb texture, flour particles"
+  }
+}

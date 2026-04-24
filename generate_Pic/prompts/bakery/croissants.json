@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic overhead flat-lay food photography of freshly baked butter croissants arranged artfully on aged parchment paper on a cream-colored linen cloth. The croissants have a perfect deep golden-brown lacquered crust with visible lamination layers peeling slightly at the tips, flaky and shatteringly crisp. Small pastry flakes scattered naturally around them. A small ceramic ramekin of European cultured butter sits beside them, knife resting casually. Soft natural diffuse daylight from a window, very slightly warm. 50mm lens, f/4.0, ISO 100. No artificial light, no harsh shadows. Elegant but completely natural composition. The textures of linen, parchment, and pastry are all clearly distinct and tactile. Documentary food editorial style.",
+  "negative_prompt": "plastic, CGI, cartoon, artificial light, studio setup, overexposed, flat lay with too many props, synthetic butter, dry dull crust, generic stock photo, blurry, low quality, watermark",
+  "api_parameters": {
+    "aspect_ratio": "4:5",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "editorial food photography, flat-lay, natural light",
+    "lighting": "soft diffuse daylight, slightly warm, gentle shadows",
+    "camera_angle": "directly overhead 90 degrees",
+    "depth_of_field": "deep focus, everything sharp",
+    "quality": "ultra high detail, visible lamination flakes, linen texture"
+  }
+}

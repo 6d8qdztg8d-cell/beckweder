@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic editorial food photography of a slice of traditional German Bienenstich cake (bee sting cake) and a rustic Apfelkuchen (apple cake) on a worn wooden pastry board, dusted with powdered sugar. The Bienenstich has a golden caramelized almond topping and a thick vanilla cream filling visible in the cross-section. The Apfelkuchen shows layers of cinnamon-spiced apple slices arranged in a perfect fan pattern, glazed with apricot jam. Both cakes have a warm golden-brown crust. A small silver cake fork rests beside them on a folded linen cloth. Soft warm natural window light from the left, slightly warm and diffused. 85mm lens, f/3.5, ISO 160. Documentary food photography. Visible crumb texture, powdered sugar particles in the air, natural imperfections. No artificial light, no heavy styling.",
+  "negative_prompt": "plastic, CGI, cartoon, studio light, artificial, stock photo, flat background, modern industrial, overexposed, neon colors, perfect symmetry, synthetic cream, watermark, blurry",
+  "api_parameters": {
+    "aspect_ratio": "3:4",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "editorial food photography, artisan documentary",
+    "lighting": "soft warm natural window light, gentle side shadows",
+    "camera_angle": "slight 30-degree overhead angle",
+    "depth_of_field": "shallow, cake slice sharp, background soft",
+    "quality": "ultra high detail, visible crumb texture, powdered sugar particles"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic architectural exterior photograph of a traditional Swiss-German bakery storefront in Basel, Switzerland. The building facade is 19th century style — pale cream stucco exterior with dark wood window frames and shutters, ornate ironwork above the door. The shop sign reads 'Beck Weder' in elegant gold Serif lettering on dark wood. The display window is warmly lit from inside, showing bread loaves and pastries. A small awning in dark green canvas. Stone cobblestone street in front. Autumn morning light, warm golden-hour sunlight hitting the facade from a low angle. A single person walks past blurred in the background suggesting scale. 50mm lens, f/8, ISO 200. Street documentary photography style, authentic European charm.",
+  "negative_prompt": "modern building, glass curtain wall, chain store, generic signage, plastic, CGI, cartoon, studio, overexposed, tropical location, English signage, graffiti, poor condition, overcast flat light, watermark, distorted text",
+  "api_parameters": {
+    "aspect_ratio": "3:4",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "street architecture photography, documentary realism, European editorial",
+    "lighting": "warm autumn morning golden hour, low angle sunlight, natural shadows",
+    "camera_angle": "slight 3/4 angle, eye-level street perspective",
+    "depth_of_field": "deep, building sharp, distant background slightly soft",
+    "quality": "high detail, stone texture, authentic Swiss-German architectural detail"
+  }
+}

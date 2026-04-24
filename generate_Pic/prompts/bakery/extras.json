@@ -1,0 +1,16 @@
+{
+  "prompt": "Ultra-realistic editorial flat-lay food photography of artisan bakery extras arranged on a cream linen tablecloth. Items include: a small glass jar of deep amber Swiss honey with a wooden honey dipper resting across it, a ceramic pot of house-made fruit jam with a handwritten label, a small pat of golden cultured butter on parchment paper, a white ceramic espresso cup with rich dark crema, and a few scattered wildflower stems. The composition is organic and unhurried, like a Swiss countryside breakfast table. Soft diffuse natural daylight from above and slightly left. 50mm lens, f/4.5, ISO 140. Overhead flat-lay, documentary lifestyle food photography. All textures sharp — honey viscosity, fabric weave, ceramic glaze, butter surface. No artificial elements.",
+  "negative_prompt": "plastic, CGI, cartoon, artificial light, studio setup, overexposed, supermarket packaging, synthetic, cluttered, ugly labels, generic, low quality, blurry, watermark, dark moody",
+  "api_parameters": {
+    "aspect_ratio": "4:5",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "settings": {
+    "style": "lifestyle flat-lay editorial, natural light, Swiss countryside",
+    "lighting": "soft diffuse overhead daylight, minimal shadows",
+    "camera_angle": "overhead 90 degrees, centered",
+    "depth_of_field": "deep, everything sharp",
+    "quality": "ultra high detail, honey viscosity, linen texture, ceramic glaze"
+  }
+}
